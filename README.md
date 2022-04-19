@@ -13,7 +13,7 @@ be told "You're sispicious."
 
 # Code Monkey like you.
 
-# Mr. Larity is a weird boss.
+# Code Monkey writes code.
 
-# OOPS! sorry about that mr. larity.
+# Code Monkey runs code.
 
